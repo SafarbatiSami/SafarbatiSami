@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SafarbatiSami
-- 👀 I’m interested in IOT, Signal and image processing, Embedded Systems
+- 👀 I’m interested in IOT, Signal and image processing, Machine Learning, Embedded Systems
 - 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on project in image processing.
+- 📫 How to reach me : samsafarbati@hotmail.com
 
 <!---
 SafarbatiSami/SafarbatiSami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
